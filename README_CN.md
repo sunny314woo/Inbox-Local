@@ -144,9 +144,15 @@ Inbox Local 可以直接利用这些导出内容构建知识库。
 
 ---
 
-## 许可证
+## 版权与授权
 
-MIT License
+Inbox Local 是 Wisteria Software 开发的商业软件（专有软件）。
+
+版权所有 © 2026 Wisteria Software
+
+保留所有权利。
+
+详细授权条款请参阅仓库根目录中的 LICENSE 文件。
 
 ---
 
