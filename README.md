@@ -148,8 +148,13 @@ Inbox Local is designed to work seamlessly with exported content from the extens
 
 ## License
 
-MIT License
+Proprietary Software
 
+Copyright © 2026 Wisteria Software
+
+All Rights Reserved.
+
+See the LICENSE file for details.
 ---
 
 Built by Wisteria Software.
